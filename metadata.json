@@ -1,0 +1,6 @@
+{
+  "name": "Salamat Rashin Ostrich Agro-Export Group",
+  "description": "پرتال جامع شرکتی و صادراتی مجتمع کشت و صنعت و صنایع تبدیلی شترمرغ سلامت راشین به ۳ زبان فارسی، عربی و انگلیسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
